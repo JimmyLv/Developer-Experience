@@ -1,5 +1,31 @@
 # Developer-Experience
+
 Focus on Developer Experience.
+
+没想到 DX 进了 2017 年第一期的[技术雷达](https://assets.thoughtworks.com/assets/technology-radar-vol-16-cn.pdf) highlights：
+
+> ## 开发者体验成为新的差异化竞争优势
+多年来，用户体验设计一直是技术产品公司持续关注的关
+键差异化竞争优势。而现在面向开发者的工具和产品的快
+速崛起，加之工程人才的稀缺，迫使这些公司也开始关注开
+发者体验。
+> 越来越多的组织依据所减少的“工程摩擦力”（engineering
+friction）来评估云产品，并将 API 视为产品来精心打磨，且
+专注于工程生产力来提升团队效率。在 ThoughtWorks ，我
+们一直执着于高效的工程实践，以及那些能让开发者们轻
+松工作的工具和平台。我们非常激动地看到业界开始采纳
+这些想法。
+> 这些关键技术包括：将内部基础设施作为一种产品，令
+其具有足够的吸引力来与外部产品进行竞争；专注于自
+助服务系统；理解所开发的 API 的“开发者人机工程学”
+（developer ergonomics）；对遗留系统进行封装；以及对
+开发者的“持续用户共情研究”（ongoing empathetic user
+research）的投入。
+
+## References
+
+- [Developer Experience (DX) | Heroku](https://www.heroku.com/dx)
+- [APIs for Humans: The Rise of Developer Experience (DX) - HelloSign Blog](http://blog.hellosign.com/the-rise-of-developer-experience/)
 
 ## 效率篇
 
